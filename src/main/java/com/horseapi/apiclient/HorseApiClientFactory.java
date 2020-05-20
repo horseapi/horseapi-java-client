@@ -1,9 +1,7 @@
 package com.horseapi.apiclient;
 
 import com.horseapi.apiclient.http.HorseApi;
-import com.horseapi.apiclient.http.HorseApiClient;
 import okhttp3.OkHttpClient;
-import okhttp3.internal.http.HttpHeaders;
 import retrofit2.Retrofit;
 import retrofit2.converter.jackson.JacksonConverterFactory;
 
